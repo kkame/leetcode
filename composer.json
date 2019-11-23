@@ -1,0 +1,19 @@
+{
+  "name": "kkame/leetcode",
+  "description": "leetcode를 테스트케이스 작성과 함께 하기 위한 레포지터리 입니다",
+  "autoload": {
+    "psr-4": {
+      "Kkame\\Leetcode\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\Leetcode\\": "tests"
+    }
+  },
+  "license": "MIT",
+  "require": {
+    "php": "^7.3",
+    "phpunit/phpunit": "^8.4"
+  }
+}
