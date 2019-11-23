@@ -3,6 +3,7 @@
 namespace Kkame\Leetcode\TwoSum;
 
 /**
+ * https://leetcode.com/problems/two-sum
  * Class Solution
  * @package Kkame\Leetcode\TwoSum
  */
