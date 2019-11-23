@@ -14,7 +14,6 @@ class SolutionTest extends TestCase
      * @param array $problem
      * @param int $target
      * @param array $answer
-     * @throws Exception
      */
     public function testSolution(array $problem, int $target, array $answer)
     {
